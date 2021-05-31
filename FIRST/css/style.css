@@ -1,0 +1,14 @@
+body{
+  background-color: #ffc996;
+
+}
+h1{
+  color:#f7a440;
+font-family: "Lucida Handwriting",cursive;
+}
+p{
+  font-family: "Papyrus",fantasy;
+}
+.circular{
+  border-radius: 100%;
+}
